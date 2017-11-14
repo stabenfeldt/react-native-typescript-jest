@@ -1,0 +1,8 @@
+export const REQUEST_KUNDE = "REQUEST_KUNDE";
+export type REQUEST_KUNDE = typeof REQUEST_KUNDE;
+
+export const RECEIVE_KUNDE = "RECEIVE_KUNDE";
+export type RECEIVE_KUNDE = typeof RECEIVE_KUNDE;
+
+export const FETCH_ERROR_KUNDE = "FETCH_ERROR_KUNDE";
+export type FETCH_ERROR_KUNDE = typeof FETCH_ERROR_KUNDE;

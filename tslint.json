@@ -1,0 +1,19 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended",
+    "tslint-eslint-rules"
+  ],
+  "jsRules": {},
+  "rules": {
+    "max-line-length": [
+      true,
+      100
+    ],
+    "object-curly-spacing": [
+      true,
+      "always"
+    ]
+  },
+  "rulesDirectory": []
+}
